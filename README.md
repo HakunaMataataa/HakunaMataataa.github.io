@@ -11,16 +11,13 @@ Recommendation systems are complex algorithms designed to predict and suggest it
 
 ### Types of Recommendation Systems
 
-#### Content-Based Filtering
-
+--> **Content-Based Filtering**
 This system suggests items similar to what the user has liked before. For instance, on a music platform, it recommends songs based on the user's listening history or preferences.
 
-#### Collaborative Filtering
-
+--> **Collaborative Filtering**
 This method makes predictions about a user's interests by collecting preferences from many users (user-item interactions) to make recommendations. For instance, on e-commerce sites, it suggests products based on what similar users have liked or bought.
 
-#### Hybrid Recommendation Systems
-
+--> **Hybrid Recommendation Systems**
 These combine both content-based and collaborative filtering to provide more accurate and diverse recommendations.
 
 ### Working Mechanism
